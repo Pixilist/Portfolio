@@ -23,7 +23,7 @@ const Projects = () => {
                 delay: 0.8,
                 scrollTrigger: {
                     trigger: projectsRef.current,
-                    start: "top 90%",
+                    start: "top 99%",
                     toggleActions: "play none none reverse",
                     once: false,
                 }
