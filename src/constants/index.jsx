@@ -126,7 +126,7 @@ export const EXPERIENCES = [
     role: "Assistant Team Lead",
     company: "HII Unmanned Systems",
     description:
-      "Assisting Leading a team in developing a improved simulation enviornment for HII unmanned systems REUMS platform based in Unreal Engine. Developing Noise Algorithms for Terrain Generator, and development of 3d tiles for rendering enviornment. Collaborated with stakeholders to define project requirements and timelines.",
+      "Assisting Leading a team in developing an improved simulation enviornment for HII unmanned systems REUMS platform based in Unreal Engine. Developing Noise Algorithms for Terrain Generation, and development of 3d tiles for rendering enviornment. Collaborated with stakeholders to define project requirements and timelines.",
     techStack: ["C++", "Unreal Engine", "Cesium Ion", "Agile", "GitHub"],
   },
   {
