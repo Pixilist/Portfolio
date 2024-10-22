@@ -1,10 +1,7 @@
 import { useEffect, useRef } from 'react'
 import { PROFILE } from '../constants'
-import { ABOUT } from '../constants'
 import { RiArrowRightUpLine } from '@remixicon/react'
 import nic from "../assets/Nic.jpg"
-import nic2 from "../assets/Nic2.jpg"
-import nic3 from "../assets/Nic3.jpg"
 import { gsap } from "gsap"
 import { ScrollTrigger } from 'gsap/ScrollTrigger'
 
