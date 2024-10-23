@@ -89,9 +89,9 @@ const Hero = () => {
         <div className="lg:flex-row flex flex-col items-center justify-between gap-4 mt-12">
             {/* Text container */}
             <div className="flex flex-col mt-8 lg:mt-20">
-                <h1 className="hero-title text-2xl lg:text-7xl mt-10 text-left px-8">{PROFILE.name}</h1>
+                <h1 className="hero-title text-5xl lg:text-7xl mt-10 text-left px-8">{PROFILE.name}</h1>
                 <h2 className="hero-title text-1xl lg:text-2xl mt text-left px-8">{PROFILE.igname}</h2>
-                <h2 className="hero-subheading bg-gradient-to-b from-pink-200 to-purple-300 bg-clip-text text-left text-xl lg:text-3xl tracking-tighter text-transparent px-8">{PROFILE.role}</h2>
+                <h2 className="hero-subheading bg-gradient-to-b from-pink-200 to-pnurple-300 bg-clip-text text-left text-xl lg:text-3xl tracking-tighter text-transparent px-8">{PROFILE.role}</h2>
                 
                 {/* Subheading below the titles */}
                 <p className="hero-text max-w-3xl p-2 text-xl text-md tracking-tighter lg:text-xl mt-4 px-8 font-thin">{PROFILE.subheading}</p>
