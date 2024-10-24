@@ -1,6 +1,10 @@
 
 import project1 from "../assets/project1.png";
+import project3 from "../assets/project3.webp";
 import project2 from "../assets/project2.png";
+import project4 from "../assets/project4.jpg";
+import project5 from "../assets/project5.jpg";
+import project6 from "../assets/project6.jpg";
 import personImage from "../assets/BryanChavez.jfif";
 import { SiLinux } from 'react-icons/si';
 import { SiUnrealengine } from 'react-icons/si';
@@ -53,7 +57,52 @@ export const PROJECTS = [
       "A personal portfolio website showcasing projects and skills. Fully responsive and optimized for performance.",
     techStack: ["Next.js", "Tailwind CSS",],
     imgSrc: project1,
-    link: "https://myportfolio.com",
+    link: "https://ndesprez.me",
+  },
+  {
+    id: 2,
+    title: "BERT based QA Chatbot",
+    description:
+    " Developed Custom data scraper for grabbing text-information from Divs to accumulate data for QA. Visualized data using Matplotlib using custom functions. Explored ways to use pretrained BERT models to save time on question-answering based chat.",
+    techStack: ["Pytorch", "NumPy", "Pandas", "TensorFlow", "Python", "BERT"],
+    imgSrc: project3,
+    link: "https://ndesprez.me",
+  },
+  {
+    id: 3,
+    title: "James Bond - No Time to Die Recreation",
+    description:
+    "Comprehensive recreation of the iconic No Time to Die James Bond intro sequence, reimagined with Valorant-themed assets and characters. Attracted substantial viewership.",
+    techStack: ["Blender", "After Effects", "Embergen", "Houdini", "Photoshop", "Davinci Resolve"],
+    imgSrc: project2,
+    link: "https://x.com/YFPGamingLive/status/1830697201905062160",
+  },
+  {
+    id: 4,
+    title: "All Eyes On These 5 Pros At VALORANT Champions",
+    description:
+    "Concepted and led Creative Design on captivating 3D sequences highlighting game assets for advertisement. Collaborated with a cross-functional creative team to develop a captivating motivation video for E-sports teams and video game players alike. Garnered over a million views across social platforms on a tight schedule.",
+    techStack: ["Blender", "After Effects", "Embergen", "Photoshop", "Davinci Resolve"],
+    imgSrc: project4,
+    link: "https://www.youtube.com/watch?v=4m76ia6L_Eg",
+  },
+  {
+    id: 5,
+    title: "VALORANT Agents to Watch in the VCT | Hype Trailer",
+    description:
+    "Created stunning 3D sequences for Riot Games' world renowned E-sports title Valorant. The video garnered hundreds of thousands of views across all media.",
+    techStack: ["Blender", "After Effects", "Embergen", "Photoshop", "Davinci Resolve"],
+    imgSrc: project5,
+    link: "https://www.youtube.com/watch?v=Dwm89ETfGtc",
+  },
+  {
+    id: 5,
+    title: "VCT Masters - Thinking-Men Valorant Roster Cinematics",
+    description:
+    "Created stunning 3D sequences for Thinking-men Valorant Roster. Concepted and exectuted entire art direction alone.",
+    techStack: ["Blender", "After Effects", "Embergen", "Photoshop", "Davinci Resolve"],
+    imgSrc: project6,
+    link: "https://www.youtube.com/watch?v=7WLpFfUHblE",
   },
 ];
 
