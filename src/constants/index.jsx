@@ -64,7 +64,7 @@ export const PROJECTS = [
     title: "BERT based QA Chatbot",
     description:
     " Developed Custom data scraper for grabbing text-information from Divs to accumulate data for QA. Visualized data using Matplotlib using custom functions. Explored ways to use pretrained BERT models to save time on question-answering based chat.",
-    techStack: ["Pytorch", "NumPy", "Pandas", "TensorFlow", "Python", "BERT"],
+    techStack: ["Google Colab", "Pytorch", "NumPy", "Pandas", "TensorFlow", "Python", "BERT"],
     imgSrc: project3,
     link: "https://ndesprez.me",
   },
