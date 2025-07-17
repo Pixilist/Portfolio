@@ -40,7 +40,7 @@ export const PROFILE = {
   igname: "PixilArts",
   role: "Software Engineer",
   subheading:
-    "Software Engineer with 5+ years of coding experience and proven success in delivering services to clients. Skilled in leading and developing web applications and other software-driven projects, as well as spearheading the creation of 3D animation content with millions of impressions online. My unique blend of creative and artistic expertise, coupled with my background as a software developer, positions me as an exceptional candidate for any company.",
+    "Software engineer with over 5 years of hands-on coding experience and a strong track record of delivering polished, user-focused applications. I’ve led both technical and creative projects — from building web and simulation tools to producing 3D animation content that’s reached millions online. I bring a practical, results-driven mindset to every project I take on.",
 
 };
 
