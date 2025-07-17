@@ -171,11 +171,11 @@ export const SKILLS = [
 
 export const EXPERIENCES = [
   {
-    yearRange: "Sep 2024 - Present",
+    yearRange: "Sep 2024 - May 2025",
     role: "Assistant Team Lead",
     company: "HII Unmanned Systems",
     description:
-      "Assisting Leading a team in developing an improved simulation enviornment for HII unmanned systems REUMS platform based in Unreal Engine. Developing Noise Algorithms for Terrain Generation, and development of 3d tiles for rendering enviornment. Collaborated with stakeholders to define project requirements and timelines.",
+      "• Enhancing HII’s maritime simulation environment by integrating high-fidelity bathymetric data, improving the realism and effectiveness of simulations for unmanned underwater vehicles (UUVs) such as the REMUS project. Lead a team of three in creating custom simulation environments using noise algorithms and procedurally generated height maps, which were converted into GeoTIFFs for compatibility with the 3D Tiles specification. Independently developed a height map generator and a height map-to-GeoTIFF converter, streamlining the workflow for simulation asset creation. Managed an Agile-based team workflow, participating in daily scrum meetings and helping oversee sprints. Created an extensive front-end in Unreal Engine 5 with custom C++ based plugins for API communication.",
     techStack: ["C++", "Unreal Engine", "Cesium Ion", "Agile", "GitHub"],
   },
   {
